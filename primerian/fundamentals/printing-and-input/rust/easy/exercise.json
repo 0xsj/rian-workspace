@@ -1,0 +1,40 @@
+{
+  "schema": 1,
+  "site": "primerian",
+  "module": "fundamentals",
+  "lesson": "printing-and-input",
+  "language": "rust",
+  "level": "easy",
+  "path": "primerian/fundamentals/printing-and-input/rust/easy",
+  "title": "Print the label exactly",
+  "ticket": "fundamentals-v4-printing-and-input-1",
+  "revision": "v4.3",
+  "kind": "coding",
+  "lessonUrl": "https://primerian.dev/fundamentals/printing-and-input?language=rust",
+  "labUrl": "https://primerian.dev/fundamentals/printing-and-input/lab?language=rust&tab=fundamentals-v4-printing-and-input-1",
+  "source": "main.rs",
+  "supportFiles": [
+    "Cargo.toml",
+    "Cargo.lock"
+  ],
+  "starterHashes": {
+    "main.rs": "6e9b955f5804a7d33c0fca58b82641523ec289728d56e6ead8dc1b266b965de1",
+    "Cargo.toml": "87f1568d8bc729032c56e1d78b3da7865b2d56629fce490156e090ba4a5d6280",
+    "Cargo.lock": "64c6c03061255d65a26d688065490d4d4fcff3fca05b51a54aa9e55161f902aa"
+  },
+  "build": [
+    "cargo",
+    "build",
+    "--quiet",
+    "--locked",
+    "--target-dir",
+    ".workspace-build"
+  ],
+  "run": [
+    "./.workspace-build/debug/exercise"
+  ],
+  "provenance": {
+    "owner": "apps/primerian/src/lib/modules/fundamentals/reading-programs/printing-and-input/v4",
+    "exportVersion": 1
+  }
+}

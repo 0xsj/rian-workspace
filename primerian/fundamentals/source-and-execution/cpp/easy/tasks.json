@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "label": "Build preview",
+      "command": "g++ -std=c++23 -Wall -Wextra -pedantic main.cpp -o preview-next"
+    },
+    {
+      "label": "Build and run",
+      "command": "g++ -std=c++23 -Wall -Wextra -pedantic main.cpp -o preview; ./preview"
+    },
+    {
+      "label": "Build alternate",
+      "command": "g++ -std=c++23 -Wall -Wextra -pedantic main.cpp -o preview-next"
+    }
+  ]
+}

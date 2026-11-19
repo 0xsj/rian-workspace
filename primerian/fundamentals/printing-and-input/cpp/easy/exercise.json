@@ -1,0 +1,37 @@
+{
+  "schema": 1,
+  "site": "primerian",
+  "module": "fundamentals",
+  "lesson": "printing-and-input",
+  "language": "cpp",
+  "level": "easy",
+  "path": "primerian/fundamentals/printing-and-input/cpp/easy",
+  "title": "Print the label exactly",
+  "ticket": "fundamentals-v4-printing-and-input-1",
+  "revision": "v4.3",
+  "kind": "coding",
+  "lessonUrl": "https://primerian.dev/fundamentals/printing-and-input?language=cpp",
+  "labUrl": "https://primerian.dev/fundamentals/printing-and-input/lab?language=cpp&tab=fundamentals-v4-printing-and-input-1",
+  "source": "main.cpp",
+  "supportFiles": [],
+  "starterHashes": {
+    "main.cpp": "4d8af09fac3a716ed2819984a35029fccc757dcd9fde760ea55c2ae33e126582"
+  },
+  "build": [
+    "$CXX",
+    "-std=c++23",
+    "-Wall",
+    "-Wextra",
+    "-pedantic",
+    "main.cpp",
+    "-o",
+    ".workspace-build/program"
+  ],
+  "run": [
+    "./.workspace-build/program"
+  ],
+  "provenance": {
+    "owner": "apps/primerian/src/lib/modules/fundamentals/reading-programs/printing-and-input/v4",
+    "exportVersion": 1
+  }
+}

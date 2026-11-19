@@ -1,0 +1,37 @@
+{
+  "schema": 1,
+  "site": "heyrian",
+  "module": "patterns",
+  "lesson": "factory",
+  "language": "typescript",
+  "level": "medium",
+  "path": "heyrian/patterns/factory/typescript/medium",
+  "title": "Repair webhook creation",
+  "ticket": "heyrian-factory-v4-2-r3",
+  "revision": "factory-lab-v4.3",
+  "kind": "coding",
+  "lessonUrl": "https://heyrian.dev/patterns/factory?language=typescript",
+  "labUrl": "https://heyrian.dev/patterns/factory/lab?language=typescript&tab=heyrian-factory-v4-2-r3",
+  "source": "main.ts",
+  "supportFiles": [
+    "tsconfig.json"
+  ],
+  "starterHashes": {
+    "main.ts": "50b53178da78445ade8706408e717a64a43bc4e48a5b52e8b96739c27f93b1c8",
+    "tsconfig.json": "3f9db5d52f7b09f05a26e28040b737cdedaf0d65a6dced75e36bdd121a86f671"
+  },
+  "build": [
+    "$NODE",
+    "$TSC",
+    "-p",
+    "tsconfig.json"
+  ],
+  "run": [
+    "$NODE",
+    ".workspace-build/main.js"
+  ],
+  "provenance": {
+    "owner": "apps/heyrian/src/lib/modules/patterns/creation/factory/v4",
+    "exportVersion": 1
+  }
+}

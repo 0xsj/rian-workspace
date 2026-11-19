@@ -1,0 +1,12 @@
+[
+  {
+    "source": "fn main() {\n    let message = \"preview: ready\";\n    println!(\"{message}\");\n}\n",
+    "command": "cargo build",
+    "artifact": "target/debug/preview"
+  },
+  {
+    "source": "fn main() {\n    let message = \"preview: candidate\";\n    println!(\"{message}\");\n}\n",
+    "command": "cargo build --release",
+    "artifact": "target/release/preview"
+  }
+]

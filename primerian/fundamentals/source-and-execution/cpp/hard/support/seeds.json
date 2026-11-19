@@ -1,0 +1,12 @@
+[
+  {
+    "source": "#include <iostream>\n#include <string>\n\nint main() {\n    const std::string message = \"preview: ready\";\n    std::cout << message << '\\n';\n}\n",
+    "command": "g++ -std=c++23 -Wall -Wextra -pedantic main.cpp -o preview",
+    "artifact": "preview"
+  },
+  {
+    "source": "#include <iostream>\n#include <string>\n\nint main() {\n    const std::string message = \"preview: candidate\";\n    std::cout << message << '\\n';\n}\n",
+    "command": "g++ -std=c++23 -Wall -Wextra -pedantic main.cpp -o preview-next",
+    "artifact": "preview-next"
+  }
+]

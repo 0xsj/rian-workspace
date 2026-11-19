@@ -1,0 +1,4 @@
+proof 008 | width: 12.50 cm | count: 12 | input: "12"
+proof 008 | width: 12.50 cm | count: 0 | input: "0"
+proof 008 | width: 12.50 cm | count missing | input: ""
+proof 008 | width: 12.50 cm | count: 7 | input: "7"

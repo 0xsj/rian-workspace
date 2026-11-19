@@ -1,0 +1,30 @@
+{
+  "schema": 1,
+  "site": "primerian",
+  "module": "fundamentals",
+  "lesson": "source-and-execution",
+  "language": "typescript",
+  "level": "medium",
+  "path": "primerian/fundamentals/source-and-execution/typescript/medium",
+  "title": "Guard the preview workflow",
+  "ticket": "F-SRC-BUILD-V5-TYPESCRIPT-S2",
+  "revision": "v5.1",
+  "kind": "build-run",
+  "lessonUrl": "https://primerian.dev/fundamentals/source-and-execution?language=typescript",
+  "labUrl": "https://primerian.dev/fundamentals/source-and-execution/lab?language=typescript&tab=F-SRC-BUILD-V5-TYPESCRIPT-S2",
+  "source": "main.ts",
+  "supportFiles": [],
+  "starterHashes": {
+    "main.ts": "683a51a395a293e65ccb0ab570e61a851eb19f627600083afadc0777b8f4717d",
+    "tasks.json": "29715428f8663ccd1260e8087b48f06a1cefcdc727cc1c6d2f7e28d4ae830df8",
+    "support/seeds.json": "aeba9c4617674bbb2476820894c08e21cdb4acbac99b4bc48be8f5ad4f3815ab"
+  },
+  "artifacts": [
+    "out/main.js",
+    "dist/main.js"
+  ],
+  "provenance": {
+    "owner": "apps/primerian/src/lib/modules/fundamentals/reading-programs/source-and-execution/v4",
+    "exportVersion": 1
+  }
+}

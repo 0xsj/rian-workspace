@@ -1,0 +1,20 @@
+{
+  "tasks": [
+    {
+      "label": "Build preview",
+      "command": "npx tsc main.ts --noEmitOnError --outDir out"
+    },
+    {
+      "label": "Build and run",
+      "command": "npx tsc main.ts --noEmitOnError --outDir out; node out/main.js"
+    },
+    {
+      "label": "Build alternate",
+      "command": "npx tsc main.ts --noEmitOnError --outDir dist"
+    },
+    {
+      "label": "Check source",
+      "command": "npx tsc main.ts --noEmit"
+    }
+  ]
+}

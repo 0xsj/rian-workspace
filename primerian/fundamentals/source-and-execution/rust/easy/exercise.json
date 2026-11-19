@@ -1,0 +1,33 @@
+{
+  "schema": 1,
+  "site": "primerian",
+  "module": "fundamentals",
+  "lesson": "source-and-execution",
+  "language": "rust",
+  "level": "easy",
+  "path": "primerian/fundamentals/source-and-execution/rust/easy",
+  "title": "Verify the review build",
+  "ticket": "F-SRC-BUILD-V5-RUST-S1-R2",
+  "revision": "v5.3",
+  "kind": "build-run",
+  "lessonUrl": "https://primerian.dev/fundamentals/source-and-execution?language=rust",
+  "labUrl": "https://primerian.dev/fundamentals/source-and-execution/lab?language=rust&tab=F-SRC-BUILD-V5-RUST-S1-R2",
+  "source": "src/main.rs",
+  "supportFiles": [
+    "Cargo.toml"
+  ],
+  "starterHashes": {
+    "src/main.rs": "611cc386a3b34f088a8003136779973c4e72281f2e4393a1e90eb0ca6fca3988",
+    "Cargo.toml": "0c9b46bb1ed04cdaf0244a417644ddd5da7731998b4bb7d6cd90f40245520897",
+    "tasks.json": "d66a2fe2bf0fb37815425aa9a256c4254802c77daa4a4b426c4530af1d445a51",
+    "support/seeds.json": "27abe77b08af1a6223e04f6650476df9fbbb37a38c47cbe3827e50ae3113838a"
+  },
+  "artifacts": [
+    "target/debug/preview",
+    "target/release/preview"
+  ],
+  "provenance": {
+    "owner": "apps/primerian/src/lib/modules/fundamentals/reading-programs/source-and-execution/v4",
+    "exportVersion": 1
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema": 1,
+  "site": "primerian",
+  "module": "fundamentals",
+  "lesson": "printing-and-input",
+  "language": "cpp",
+  "level": "hard",
+  "path": "primerian/fundamentals/printing-and-input/cpp/hard",
+  "title": "Build the line reader",
+  "ticket": "fundamentals-v4-printing-and-input-3",
+  "revision": "v4.4",
+  "kind": "coding",
+  "lessonUrl": "https://primerian.dev/fundamentals/printing-and-input?language=cpp",
+  "labUrl": "https://primerian.dev/fundamentals/printing-and-input/lab?language=cpp&tab=fundamentals-v4-printing-and-input-3",
+  "source": "main.cpp",
+  "supportFiles": [],
+  "starterHashes": {
+    "main.cpp": "7d9e04e82be6147a26bfb60c2e66d3020cd3cf5adb4fd41615513d6b96ecb9ac"
+  },
+  "build": [
+    "$CXX",
+    "-std=c++23",
+    "-Wall",
+    "-Wextra",
+    "-pedantic",
+    "main.cpp",
+    "-o",
+    ".workspace-build/program"
+  ],
+  "run": [
+    "./.workspace-build/program"
+  ],
+  "provenance": {
+    "owner": "apps/primerian/src/lib/modules/fundamentals/reading-programs/printing-and-input/v4",
+    "exportVersion": 1
+  }
+}

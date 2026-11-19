@@ -1,0 +1,7 @@
+[
+  {
+    "source": "fn main() {\n    let message = \"preview: ready\";\n    println!(\"{message}\");\n}\n",
+    "command": "cargo build",
+    "artifact": "target/debug/preview"
+  }
+]

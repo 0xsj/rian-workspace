@@ -1,0 +1,37 @@
+{
+  "schema": 1,
+  "site": "primerian",
+  "module": "fundamentals",
+  "lesson": "printing-and-input",
+  "language": "typescript",
+  "level": "easy",
+  "path": "primerian/fundamentals/printing-and-input/typescript/easy",
+  "title": "Print the label exactly",
+  "ticket": "fundamentals-v4-printing-and-input-1",
+  "revision": "v4.3",
+  "kind": "coding",
+  "lessonUrl": "https://primerian.dev/fundamentals/printing-and-input?language=typescript",
+  "labUrl": "https://primerian.dev/fundamentals/printing-and-input/lab?language=typescript&tab=fundamentals-v4-printing-and-input-1",
+  "source": "main.ts",
+  "supportFiles": [
+    "tsconfig.json"
+  ],
+  "starterHashes": {
+    "main.ts": "f786d804259ec1001a81c996edd581ab1ecbf776c714e59f062fb0a6ed13ee69",
+    "tsconfig.json": "3f9db5d52f7b09f05a26e28040b737cdedaf0d65a6dced75e36bdd121a86f671"
+  },
+  "build": [
+    "$NODE",
+    "$TSC",
+    "-p",
+    "tsconfig.json"
+  ],
+  "run": [
+    "$NODE",
+    ".workspace-build/main.js"
+  ],
+  "provenance": {
+    "owner": "apps/primerian/src/lib/modules/fundamentals/reading-programs/printing-and-input/v4",
+    "exportVersion": 1
+  }
+}

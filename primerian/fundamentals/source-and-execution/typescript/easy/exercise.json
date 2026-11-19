@@ -1,0 +1,30 @@
+{
+  "schema": 1,
+  "site": "primerian",
+  "module": "fundamentals",
+  "lesson": "source-and-execution",
+  "language": "typescript",
+  "level": "easy",
+  "path": "primerian/fundamentals/source-and-execution/typescript/easy",
+  "title": "Verify the review build",
+  "ticket": "F-SRC-BUILD-V5-TYPESCRIPT-S1-R2",
+  "revision": "v5.3",
+  "kind": "build-run",
+  "lessonUrl": "https://primerian.dev/fundamentals/source-and-execution?language=typescript",
+  "labUrl": "https://primerian.dev/fundamentals/source-and-execution/lab?language=typescript&tab=F-SRC-BUILD-V5-TYPESCRIPT-S1-R2",
+  "source": "main.ts",
+  "supportFiles": [],
+  "starterHashes": {
+    "main.ts": "683a51a395a293e65ccb0ab570e61a851eb19f627600083afadc0777b8f4717d",
+    "tasks.json": "bcbd8f6de70b3403da14ec0f1d6ee9d4d12b1d01ef6af80368da8a4b579efb1a",
+    "support/seeds.json": "d898cbc7a25ac16208016ceff1bce824c7db79ece58e9726602db3f24397dc16"
+  },
+  "artifacts": [
+    "out/main.js",
+    "dist/main.js"
+  ],
+  "provenance": {
+    "owner": "apps/primerian/src/lib/modules/fundamentals/reading-programs/source-and-execution/v4",
+    "exportVersion": 1
+  }
+}

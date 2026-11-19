@@ -1,0 +1,37 @@
+{
+  "schema": 1,
+  "site": "heyrian",
+  "module": "patterns",
+  "lesson": "factory",
+  "language": "go",
+  "level": "hard",
+  "path": "heyrian/patterns/factory/go/hard",
+  "title": "Preserve queued notices",
+  "ticket": "heyrian-factory-v4-3-r3",
+  "revision": "factory-lab-v4.3",
+  "kind": "coding",
+  "lessonUrl": "https://heyrian.dev/patterns/factory?language=go",
+  "labUrl": "https://heyrian.dev/patterns/factory/lab?language=go&tab=heyrian-factory-v4-3-r3",
+  "source": "main.go",
+  "supportFiles": [
+    "go.mod"
+  ],
+  "starterHashes": {
+    "main.go": "df1b852bd20f6af96c44bd3eb123a0a36fa826b825bd029f84bde34143fba4b8",
+    "go.mod": "9211127ce1646981176286ec8a68640f1650052ac73c9389f41f1e30b6816014"
+  },
+  "build": [
+    "go",
+    "build",
+    "-o",
+    ".workspace-build/program",
+    "."
+  ],
+  "run": [
+    "./.workspace-build/program"
+  ],
+  "provenance": {
+    "owner": "apps/heyrian/src/lib/modules/patterns/creation/factory/v4",
+    "exportVersion": 1
+  }
+}

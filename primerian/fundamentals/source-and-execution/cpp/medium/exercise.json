@@ -1,0 +1,30 @@
+{
+  "schema": 1,
+  "site": "primerian",
+  "module": "fundamentals",
+  "lesson": "source-and-execution",
+  "language": "cpp",
+  "level": "medium",
+  "path": "primerian/fundamentals/source-and-execution/cpp/medium",
+  "title": "Guard the preview workflow",
+  "ticket": "F-SRC-BUILD-V5-CPP-S2",
+  "revision": "v5.1",
+  "kind": "build-run",
+  "lessonUrl": "https://primerian.dev/fundamentals/source-and-execution?language=cpp",
+  "labUrl": "https://primerian.dev/fundamentals/source-and-execution/lab?language=cpp&tab=F-SRC-BUILD-V5-CPP-S2",
+  "source": "main.cpp",
+  "supportFiles": [],
+  "starterHashes": {
+    "main.cpp": "9900778353847a6178dfe4f9fe1d26effa00437f3a556bc8a9e1d5e4ed4fe9d2",
+    "tasks.json": "20b9ec3afddda13979bd95cdf12470118deb38aefb2c844648fcc1a890342626",
+    "support/seeds.json": "b65031ebcce80b2332d86543c4cd18712e932caadc524d8751360a6156902ab6"
+  },
+  "artifacts": [
+    "preview",
+    "preview-next"
+  ],
+  "provenance": {
+    "owner": "apps/primerian/src/lib/modules/fundamentals/reading-programs/source-and-execution/v4",
+    "exportVersion": 1
+  }
+}

@@ -1,0 +1,5 @@
+P north team 2500
+R north relay - - -
+Q release
+P north ops 6000
+F

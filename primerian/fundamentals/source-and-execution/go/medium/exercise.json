@@ -1,0 +1,33 @@
+{
+  "schema": 1,
+  "site": "primerian",
+  "module": "fundamentals",
+  "lesson": "source-and-execution",
+  "language": "go",
+  "level": "medium",
+  "path": "primerian/fundamentals/source-and-execution/go/medium",
+  "title": "Guard the preview workflow",
+  "ticket": "F-SRC-BUILD-V5-GO-S2",
+  "revision": "v5.1",
+  "kind": "build-run",
+  "lessonUrl": "https://primerian.dev/fundamentals/source-and-execution?language=go",
+  "labUrl": "https://primerian.dev/fundamentals/source-and-execution/lab?language=go&tab=F-SRC-BUILD-V5-GO-S2",
+  "source": "main.go",
+  "supportFiles": [
+    "go.mod"
+  ],
+  "starterHashes": {
+    "main.go": "a97f75e9bd1443653a7c020df17bcbf61c791b534b581a34295d98c92fc88f4a",
+    "go.mod": "634fd13ade23a5eb9acdc359e8cfccfdac43acf42467e0ac5c8f035d3dcde924",
+    "tasks.json": "b4227f30fe3905bc6ffa47144c397125e7c8eb959c1c2d40d1146d628550bd75",
+    "support/seeds.json": "c054b02b14e44223f278537d02c6262947a18486379005bef5daa559540f7d39"
+  },
+  "artifacts": [
+    "preview",
+    "preview-next"
+  ],
+  "provenance": {
+    "owner": "apps/primerian/src/lib/modules/fundamentals/reading-programs/source-and-execution/v4",
+    "exportVersion": 1
+  }
+}

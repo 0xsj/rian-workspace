@@ -1,0 +1,15 @@
+node_modules/
+**/.workspace-build/
+**/.workspace-state/
+**/target/
+**/out/
+**/dist/
+**/preview
+**/preview.exe
+**/preview-next
+**/preview-next.exe
+*.log
+.DS_Store
+.env
+.env.*
+!.env.example

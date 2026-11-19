@@ -1,0 +1,31 @@
+{
+  "schema": 1,
+  "site": "primerian",
+  "module": "fundamentals",
+  "lesson": "source-and-execution",
+  "language": "cpp",
+  "level": "hard",
+  "path": "primerian/fundamentals/source-and-execution/cpp/hard",
+  "title": "Repair the demo launcher",
+  "ticket": "F-SRC-BUILD-V5-CPP-S3-R2",
+  "revision": "v5.2",
+  "kind": "build-run",
+  "lessonUrl": "https://primerian.dev/fundamentals/source-and-execution?language=cpp",
+  "labUrl": "https://primerian.dev/fundamentals/source-and-execution/lab?language=cpp&tab=F-SRC-BUILD-V5-CPP-S3-R2",
+  "source": "main.cpp",
+  "supportFiles": [],
+  "starterHashes": {
+    "main.cpp": "9900778353847a6178dfe4f9fe1d26effa00437f3a556bc8a9e1d5e4ed4fe9d2",
+    "tasks.json": "927b68ff217ce1ff3316ac52c76a68efd3cc3298e308444714b4677d2b802175",
+    "launch.json": "91bee069a4c38902fdf6679c87948b61e8a294edc154f996aabb6f1c59ceecf1",
+    "support/seeds.json": "1e8465f831b9915e04757e0bbc74c5411dafac017dff9c151d0f7e53297c1f8e"
+  },
+  "artifacts": [
+    "preview",
+    "preview-next"
+  ],
+  "provenance": {
+    "owner": "apps/primerian/src/lib/modules/fundamentals/reading-programs/source-and-execution/v4",
+    "exportVersion": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "label": "Build preview",
+      "command": "go build -o preview ."
+    },
+    {
+      "label": "Build and run",
+      "command": "go run ."
+    },
+    {
+      "label": "Build alternate",
+      "command": "go build -o preview ."
+    }
+  ]
+}

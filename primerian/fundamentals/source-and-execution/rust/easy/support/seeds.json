@@ -1,0 +1,7 @@
+[
+  {
+    "source": "fn main() {\n    let message = \"preview: checked\";\n    println!(\"{message}\");\n}\n// Earlier review revision; same visible banner.\n",
+    "command": "cargo build",
+    "artifact": "target/debug/preview"
+  }
+]

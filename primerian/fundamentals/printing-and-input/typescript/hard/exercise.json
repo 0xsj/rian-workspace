@@ -1,0 +1,37 @@
+{
+  "schema": 1,
+  "site": "primerian",
+  "module": "fundamentals",
+  "lesson": "printing-and-input",
+  "language": "typescript",
+  "level": "hard",
+  "path": "primerian/fundamentals/printing-and-input/typescript/hard",
+  "title": "Build the line reader",
+  "ticket": "fundamentals-v4-printing-and-input-3",
+  "revision": "v4.4",
+  "kind": "coding",
+  "lessonUrl": "https://primerian.dev/fundamentals/printing-and-input?language=typescript",
+  "labUrl": "https://primerian.dev/fundamentals/printing-and-input/lab?language=typescript&tab=fundamentals-v4-printing-and-input-3",
+  "source": "main.ts",
+  "supportFiles": [
+    "tsconfig.json"
+  ],
+  "starterHashes": {
+    "main.ts": "798e87fb3bf1d67f02190318316ad1ebde6a428aaf9d4704625af67e96f0da97",
+    "tsconfig.json": "3f9db5d52f7b09f05a26e28040b737cdedaf0d65a6dced75e36bdd121a86f671"
+  },
+  "build": [
+    "$NODE",
+    "$TSC",
+    "-p",
+    "tsconfig.json"
+  ],
+  "run": [
+    "$NODE",
+    ".workspace-build/main.js"
+  ],
+  "provenance": {
+    "owner": "apps/primerian/src/lib/modules/fundamentals/reading-programs/printing-and-input/v4",
+    "exportVersion": 1
+  }
+}

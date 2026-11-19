@@ -1,0 +1,279 @@
+{
+  "checkedOn": "2026-11-18",
+  "count": 36,
+  "scope": "Native local public samples and build/run observations; no website acceptance or full hidden-case assessment.",
+  "receipts": [
+    {
+      "path": "heyrian/patterns/factory/cpp/easy",
+      "starterCompiled": true,
+      "starterRan": true,
+      "starterSampleMismatch": true,
+      "correctedSamplePassed": true
+    },
+    {
+      "path": "heyrian/patterns/factory/cpp/medium",
+      "starterCompiled": true,
+      "starterRan": true,
+      "starterSampleMismatch": true,
+      "correctedSamplePassed": true
+    },
+    {
+      "path": "heyrian/patterns/factory/cpp/hard",
+      "starterCompiled": true,
+      "starterRan": true,
+      "starterSampleMismatch": true,
+      "correctedSamplePassed": true
+    },
+    {
+      "path": "heyrian/patterns/factory/go/easy",
+      "starterCompiled": true,
+      "starterRan": true,
+      "starterSampleMismatch": true,
+      "correctedSamplePassed": true
+    },
+    {
+      "path": "heyrian/patterns/factory/go/medium",
+      "starterCompiled": true,
+      "starterRan": true,
+      "starterSampleMismatch": true,
+      "correctedSamplePassed": true
+    },
+    {
+      "path": "heyrian/patterns/factory/go/hard",
+      "starterCompiled": true,
+      "starterRan": true,
+      "starterSampleMismatch": true,
+      "correctedSamplePassed": true
+    },
+    {
+      "path": "heyrian/patterns/factory/rust/easy",
+      "starterCompiled": true,
+      "starterRan": true,
+      "starterSampleMismatch": true,
+      "correctedSamplePassed": true
+    },
+    {
+      "path": "heyrian/patterns/factory/rust/medium",
+      "starterCompiled": true,
+      "starterRan": true,
+      "starterSampleMismatch": true,
+      "correctedSamplePassed": true
+    },
+    {
+      "path": "heyrian/patterns/factory/rust/hard",
+      "starterCompiled": true,
+      "starterRan": true,
+      "starterSampleMismatch": true,
+      "correctedSamplePassed": true
+    },
+    {
+      "path": "heyrian/patterns/factory/typescript/easy",
+      "starterCompiled": true,
+      "starterRan": true,
+      "starterSampleMismatch": true,
+      "correctedSamplePassed": true
+    },
+    {
+      "path": "heyrian/patterns/factory/typescript/medium",
+      "starterCompiled": true,
+      "starterRan": true,
+      "starterSampleMismatch": true,
+      "correctedSamplePassed": true
+    },
+    {
+      "path": "heyrian/patterns/factory/typescript/hard",
+      "starterCompiled": true,
+      "starterRan": true,
+      "starterSampleMismatch": true,
+      "correctedSamplePassed": true
+    },
+    {
+      "path": "primerian/fundamentals/printing-and-input/cpp/easy",
+      "starterCompiled": true,
+      "starterRan": true,
+      "starterSampleMismatch": true,
+      "correctedSamplePassed": true
+    },
+    {
+      "path": "primerian/fundamentals/printing-and-input/cpp/medium",
+      "starterCompiled": true,
+      "starterRan": true,
+      "starterSampleMismatch": true,
+      "correctedSamplePassed": true
+    },
+    {
+      "path": "primerian/fundamentals/printing-and-input/cpp/hard",
+      "starterCompiled": true,
+      "starterRan": true,
+      "starterSampleMismatch": true,
+      "correctedSamplePassed": true
+    },
+    {
+      "path": "primerian/fundamentals/printing-and-input/go/easy",
+      "starterCompiled": true,
+      "starterRan": true,
+      "starterSampleMismatch": true,
+      "correctedSamplePassed": true
+    },
+    {
+      "path": "primerian/fundamentals/printing-and-input/go/medium",
+      "starterCompiled": true,
+      "starterRan": true,
+      "starterSampleMismatch": true,
+      "correctedSamplePassed": true
+    },
+    {
+      "path": "primerian/fundamentals/printing-and-input/go/hard",
+      "starterCompiled": true,
+      "starterRan": true,
+      "starterSampleMismatch": true,
+      "correctedSamplePassed": true
+    },
+    {
+      "path": "primerian/fundamentals/printing-and-input/rust/easy",
+      "starterCompiled": true,
+      "starterRan": true,
+      "starterSampleMismatch": true,
+      "correctedSamplePassed": true
+    },
+    {
+      "path": "primerian/fundamentals/printing-and-input/rust/medium",
+      "starterCompiled": true,
+      "starterRan": true,
+      "starterSampleMismatch": true,
+      "correctedSamplePassed": true
+    },
+    {
+      "path": "primerian/fundamentals/printing-and-input/rust/hard",
+      "starterCompiled": true,
+      "starterRan": true,
+      "starterSampleMismatch": true,
+      "correctedSamplePassed": true
+    },
+    {
+      "path": "primerian/fundamentals/printing-and-input/typescript/easy",
+      "starterCompiled": true,
+      "starterRan": true,
+      "starterSampleMismatch": true,
+      "correctedSamplePassed": true
+    },
+    {
+      "path": "primerian/fundamentals/printing-and-input/typescript/medium",
+      "starterCompiled": true,
+      "starterRan": true,
+      "starterSampleMismatch": true,
+      "correctedSamplePassed": true
+    },
+    {
+      "path": "primerian/fundamentals/printing-and-input/typescript/hard",
+      "starterCompiled": true,
+      "starterRan": true,
+      "starterSampleMismatch": true,
+      "correctedSamplePassed": true
+    },
+    {
+      "path": "primerian/fundamentals/source-and-execution/cpp/easy",
+      "seededWithoutSourceChange": true,
+      "initialObservation": "expected mismatch",
+      "correctedObservationPassed": true,
+      "repeatedObservationPassed": true,
+      "guardedFailure": null
+    },
+    {
+      "path": "primerian/fundamentals/source-and-execution/cpp/medium",
+      "seededWithoutSourceChange": true,
+      "initialObservation": "public observation only; failure guard still needs repair",
+      "correctedObservationPassed": true,
+      "repeatedObservationPassed": true,
+      "guardedFailure": true
+    },
+    {
+      "path": "primerian/fundamentals/source-and-execution/cpp/hard",
+      "seededWithoutSourceChange": true,
+      "initialObservation": "expected mismatch",
+      "correctedObservationPassed": true,
+      "repeatedObservationPassed": true,
+      "guardedFailure": true
+    },
+    {
+      "path": "primerian/fundamentals/source-and-execution/go/easy",
+      "seededWithoutSourceChange": true,
+      "initialObservation": "expected mismatch",
+      "correctedObservationPassed": true,
+      "repeatedObservationPassed": true,
+      "guardedFailure": null
+    },
+    {
+      "path": "primerian/fundamentals/source-and-execution/go/medium",
+      "seededWithoutSourceChange": true,
+      "initialObservation": "public observation only; failure guard still needs repair",
+      "correctedObservationPassed": true,
+      "repeatedObservationPassed": true,
+      "guardedFailure": true
+    },
+    {
+      "path": "primerian/fundamentals/source-and-execution/go/hard",
+      "seededWithoutSourceChange": true,
+      "initialObservation": "expected mismatch",
+      "correctedObservationPassed": true,
+      "repeatedObservationPassed": true,
+      "guardedFailure": true
+    },
+    {
+      "path": "primerian/fundamentals/source-and-execution/rust/easy",
+      "seededWithoutSourceChange": true,
+      "initialObservation": "expected mismatch",
+      "correctedObservationPassed": true,
+      "repeatedObservationPassed": true,
+      "guardedFailure": null
+    },
+    {
+      "path": "primerian/fundamentals/source-and-execution/rust/medium",
+      "seededWithoutSourceChange": true,
+      "initialObservation": "public observation only; failure guard still needs repair",
+      "correctedObservationPassed": true,
+      "repeatedObservationPassed": true,
+      "guardedFailure": true
+    },
+    {
+      "path": "primerian/fundamentals/source-and-execution/rust/hard",
+      "seededWithoutSourceChange": true,
+      "initialObservation": "expected mismatch",
+      "correctedObservationPassed": true,
+      "repeatedObservationPassed": true,
+      "guardedFailure": true
+    },
+    {
+      "path": "primerian/fundamentals/source-and-execution/typescript/easy",
+      "seededWithoutSourceChange": true,
+      "initialObservation": "expected mismatch",
+      "correctedObservationPassed": true,
+      "repeatedObservationPassed": true,
+      "guardedFailure": null
+    },
+    {
+      "path": "primerian/fundamentals/source-and-execution/typescript/medium",
+      "seededWithoutSourceChange": true,
+      "initialObservation": "public observation only; failure guard still needs repair",
+      "correctedObservationPassed": true,
+      "repeatedObservationPassed": true,
+      "guardedFailure": true
+    },
+    {
+      "path": "primerian/fundamentals/source-and-execution/typescript/hard",
+      "seededWithoutSourceChange": true,
+      "initialObservation": "expected mismatch",
+      "correctedObservationPassed": true,
+      "repeatedObservationPassed": true,
+      "guardedFailure": true
+    }
+  ],
+  "versions": {
+    "node": "v22.21.1",
+    "typescript": "Version 6.0.3",
+    "go": "go version go1.27.3 darwin/arm64",
+    "rust": "rustc 1.86.0 (05f9846f8 2025-03-31)",
+    "cargo": "cargo 1.86.0 (adf9b6ad1 2025-02-28)",
+    "cpp": "Apple clang version 17.0.0 (clang-1700.6.3.2)"
+  }
+}

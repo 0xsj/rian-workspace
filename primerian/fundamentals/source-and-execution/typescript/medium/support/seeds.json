@@ -1,0 +1,7 @@
+[
+  {
+    "source": "const message: string = \"preview: ready\";\nconsole.log(message);\n",
+    "command": "npx tsc main.ts --noEmitOnError --outDir out",
+    "artifact": "out/main.js"
+  }
+]

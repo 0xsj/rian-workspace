@@ -1,0 +1,7 @@
+[
+  {
+    "source": "package main\n\nimport \"fmt\"\n\nfunc main() {\n\tmessage := \"preview: ready\"\n\tfmt.Println(message)\n}\n",
+    "command": "go build -o preview .",
+    "artifact": "preview"
+  }
+]

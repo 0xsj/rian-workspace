@@ -1,0 +1,31 @@
+{
+  "schema": 1,
+  "site": "primerian",
+  "module": "fundamentals",
+  "lesson": "source-and-execution",
+  "language": "typescript",
+  "level": "hard",
+  "path": "primerian/fundamentals/source-and-execution/typescript/hard",
+  "title": "Repair the demo launcher",
+  "ticket": "F-SRC-BUILD-V5-TYPESCRIPT-S3-R2",
+  "revision": "v5.2",
+  "kind": "build-run",
+  "lessonUrl": "https://primerian.dev/fundamentals/source-and-execution?language=typescript",
+  "labUrl": "https://primerian.dev/fundamentals/source-and-execution/lab?language=typescript&tab=F-SRC-BUILD-V5-TYPESCRIPT-S3-R2",
+  "source": "main.ts",
+  "supportFiles": [],
+  "starterHashes": {
+    "main.ts": "683a51a395a293e65ccb0ab570e61a851eb19f627600083afadc0777b8f4717d",
+    "tasks.json": "e7e215bedbf380303bc680a2ce13bbea97dfd2e39118bb6f118340a93321f00f",
+    "launch.json": "1712d879d1d48d51836ffbac0de54e52a64fd8badbb106ab9c97d7ee392fee8a",
+    "support/seeds.json": "7c5e12cb079701c86b125ab05845828fdc12af81e194867220a87908bc4be278"
+  },
+  "artifacts": [
+    "out/main.js",
+    "dist/main.js"
+  ],
+  "provenance": {
+    "owner": "apps/primerian/src/lib/modules/fundamentals/reading-programs/source-and-execution/v4",
+    "exportVersion": 1
+  }
+}

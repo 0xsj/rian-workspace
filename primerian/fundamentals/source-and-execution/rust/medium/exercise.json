@@ -1,0 +1,33 @@
+{
+  "schema": 1,
+  "site": "primerian",
+  "module": "fundamentals",
+  "lesson": "source-and-execution",
+  "language": "rust",
+  "level": "medium",
+  "path": "primerian/fundamentals/source-and-execution/rust/medium",
+  "title": "Guard the preview workflow",
+  "ticket": "F-SRC-BUILD-V5-RUST-S2",
+  "revision": "v5.1",
+  "kind": "build-run",
+  "lessonUrl": "https://primerian.dev/fundamentals/source-and-execution?language=rust",
+  "labUrl": "https://primerian.dev/fundamentals/source-and-execution/lab?language=rust&tab=F-SRC-BUILD-V5-RUST-S2",
+  "source": "src/main.rs",
+  "supportFiles": [
+    "Cargo.toml"
+  ],
+  "starterHashes": {
+    "src/main.rs": "611cc386a3b34f088a8003136779973c4e72281f2e4393a1e90eb0ca6fca3988",
+    "Cargo.toml": "0c9b46bb1ed04cdaf0244a417644ddd5da7731998b4bb7d6cd90f40245520897",
+    "tasks.json": "4d0c9b707569f35742a1caf20b186416870c899cc979b8b8dccf71a077bf15c9",
+    "support/seeds.json": "c9dbd704df0cba0ef148130d58e31238a40e8854dc9a70911bebac9ef2320351"
+  },
+  "artifacts": [
+    "target/debug/preview",
+    "target/release/preview"
+  ],
+  "provenance": {
+    "owner": "apps/primerian/src/lib/modules/fundamentals/reading-programs/source-and-execution/v4",
+    "exportVersion": 1
+  }
+}

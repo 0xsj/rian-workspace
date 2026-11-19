@@ -1,0 +1,37 @@
+{
+  "schema": 1,
+  "site": "heyrian",
+  "module": "patterns",
+  "lesson": "factory",
+  "language": "cpp",
+  "level": "easy",
+  "path": "heyrian/patterns/factory/cpp/easy",
+  "title": "Complete relay setup",
+  "ticket": "heyrian-factory-v4-1-r3",
+  "revision": "factory-lab-v4.3",
+  "kind": "coding",
+  "lessonUrl": "https://heyrian.dev/patterns/factory?language=cpp",
+  "labUrl": "https://heyrian.dev/patterns/factory/lab?language=cpp&tab=heyrian-factory-v4-1-r3",
+  "source": "main.cpp",
+  "supportFiles": [],
+  "starterHashes": {
+    "main.cpp": "e8dbe4d47c49263e44f42fae0542640fd3d60eebabb207911165e4b83d675e4c"
+  },
+  "build": [
+    "$CXX",
+    "-std=c++23",
+    "-Wall",
+    "-Wextra",
+    "-pedantic",
+    "main.cpp",
+    "-o",
+    ".workspace-build/program"
+  ],
+  "run": [
+    "./.workspace-build/program"
+  ],
+  "provenance": {
+    "owner": "apps/heyrian/src/lib/modules/patterns/creation/factory/v4",
+    "exportVersion": 1
+  }
+}

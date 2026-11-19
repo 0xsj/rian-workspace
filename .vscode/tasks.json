@@ -1,0 +1,31 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Workspace: list exercises",
+      "type": "shell",
+      "command": "npm run list",
+      "problemMatcher": []
+    },
+    {
+      "label": "Workspace: run exercise",
+      "type": "shell",
+      "command": "npm run run -- ${input:exercise}",
+      "problemMatcher": []
+    },
+    {
+      "label": "Workspace: check public sample",
+      "type": "shell",
+      "command": "npm run check -- ${input:exercise}",
+      "problemMatcher": []
+    }
+  ],
+  "inputs": [
+    {
+      "id": "exercise",
+      "type": "promptString",
+      "description": "Exercise path from npm run list",
+      "default": "primerian/fundamentals/printing-and-input/typescript/easy"
+    }
+  ]
+}

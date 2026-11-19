@@ -1,0 +1,40 @@
+{
+  "schema": 1,
+  "site": "heyrian",
+  "module": "patterns",
+  "lesson": "factory",
+  "language": "rust",
+  "level": "hard",
+  "path": "heyrian/patterns/factory/rust/hard",
+  "title": "Preserve queued notices",
+  "ticket": "heyrian-factory-v4-3-r3",
+  "revision": "factory-lab-v4.3",
+  "kind": "coding",
+  "lessonUrl": "https://heyrian.dev/patterns/factory?language=rust",
+  "labUrl": "https://heyrian.dev/patterns/factory/lab?language=rust&tab=heyrian-factory-v4-3-r3",
+  "source": "main.rs",
+  "supportFiles": [
+    "Cargo.toml",
+    "Cargo.lock"
+  ],
+  "starterHashes": {
+    "main.rs": "b84536938994fd0d971a73445f485894090d2e9892f3d1cce9e7643c237dc6e5",
+    "Cargo.toml": "87f1568d8bc729032c56e1d78b3da7865b2d56629fce490156e090ba4a5d6280",
+    "Cargo.lock": "64c6c03061255d65a26d688065490d4d4fcff3fca05b51a54aa9e55161f902aa"
+  },
+  "build": [
+    "cargo",
+    "build",
+    "--quiet",
+    "--locked",
+    "--target-dir",
+    ".workspace-build"
+  ],
+  "run": [
+    "./.workspace-build/debug/exercise"
+  ],
+  "provenance": {
+    "owner": "apps/heyrian/src/lib/modules/patterns/creation/factory/v4",
+    "exportVersion": 1
+  }
+}

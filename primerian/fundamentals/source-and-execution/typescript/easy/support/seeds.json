@@ -1,0 +1,7 @@
+[
+  {
+    "source": "const message: string = \"preview: checked\";\nconsole.log(message);\n// Earlier review revision; same visible banner.\n",
+    "command": "npx tsc main.ts --noEmitOnError --outDir out",
+    "artifact": "out/main.js"
+  }
+]

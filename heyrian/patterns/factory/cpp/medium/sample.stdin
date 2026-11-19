@@ -1,0 +1,9 @@
+P north team 2500
+R north webhook - https://hooks.example/north -
+B
+U first
+R south webhook - https://hooks.example/south 900
+U second
+P north ~ 2500
+R north webhook - https://hooks.example/north -
+S endpoint-only

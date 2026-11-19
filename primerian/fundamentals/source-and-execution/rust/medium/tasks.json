@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "label": "Build preview",
+      "command": "cargo build"
+    },
+    {
+      "label": "Build and run",
+      "command": "cargo build; ./target/debug/preview"
+    },
+    {
+      "label": "Build alternate",
+      "command": "cargo build --release"
+    }
+  ]
+}

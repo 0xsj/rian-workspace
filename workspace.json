@@ -1,0 +1,223 @@
+{
+  "schema": 1,
+  "name": "rian-workspace",
+  "generatedOn": "2026-11-18",
+  "exercises": [
+    {
+      "path": "heyrian/patterns/factory/cpp/easy",
+      "title": "Complete relay setup",
+      "ticket": "heyrian-factory-v4-1-r3",
+      "revision": "factory-lab-v4.3"
+    },
+    {
+      "path": "heyrian/patterns/factory/cpp/medium",
+      "title": "Repair webhook creation",
+      "ticket": "heyrian-factory-v4-2-r3",
+      "revision": "factory-lab-v4.3"
+    },
+    {
+      "path": "heyrian/patterns/factory/cpp/hard",
+      "title": "Preserve queued notices",
+      "ticket": "heyrian-factory-v4-3-r3",
+      "revision": "factory-lab-v4.3"
+    },
+    {
+      "path": "heyrian/patterns/factory/go/easy",
+      "title": "Complete relay setup",
+      "ticket": "heyrian-factory-v4-1-r3",
+      "revision": "factory-lab-v4.3"
+    },
+    {
+      "path": "heyrian/patterns/factory/go/medium",
+      "title": "Repair webhook creation",
+      "ticket": "heyrian-factory-v4-2-r3",
+      "revision": "factory-lab-v4.3"
+    },
+    {
+      "path": "heyrian/patterns/factory/go/hard",
+      "title": "Preserve queued notices",
+      "ticket": "heyrian-factory-v4-3-r3",
+      "revision": "factory-lab-v4.3"
+    },
+    {
+      "path": "heyrian/patterns/factory/rust/easy",
+      "title": "Complete relay setup",
+      "ticket": "heyrian-factory-v4-1-r3",
+      "revision": "factory-lab-v4.3"
+    },
+    {
+      "path": "heyrian/patterns/factory/rust/medium",
+      "title": "Repair webhook creation",
+      "ticket": "heyrian-factory-v4-2-r3",
+      "revision": "factory-lab-v4.3"
+    },
+    {
+      "path": "heyrian/patterns/factory/rust/hard",
+      "title": "Preserve queued notices",
+      "ticket": "heyrian-factory-v4-3-r3",
+      "revision": "factory-lab-v4.3"
+    },
+    {
+      "path": "heyrian/patterns/factory/typescript/easy",
+      "title": "Complete relay setup",
+      "ticket": "heyrian-factory-v4-1-r3",
+      "revision": "factory-lab-v4.3"
+    },
+    {
+      "path": "heyrian/patterns/factory/typescript/medium",
+      "title": "Repair webhook creation",
+      "ticket": "heyrian-factory-v4-2-r3",
+      "revision": "factory-lab-v4.3"
+    },
+    {
+      "path": "heyrian/patterns/factory/typescript/hard",
+      "title": "Preserve queued notices",
+      "ticket": "heyrian-factory-v4-3-r3",
+      "revision": "factory-lab-v4.3"
+    },
+    {
+      "path": "primerian/fundamentals/printing-and-input/cpp/easy",
+      "title": "Print the label exactly",
+      "ticket": "fundamentals-v4-printing-and-input-1",
+      "revision": "v4.3"
+    },
+    {
+      "path": "primerian/fundamentals/printing-and-input/cpp/medium",
+      "title": "Convert one input line",
+      "ticket": "fundamentals-v4-printing-and-input-2",
+      "revision": "v4.3"
+    },
+    {
+      "path": "primerian/fundamentals/printing-and-input/cpp/hard",
+      "title": "Build the line reader",
+      "ticket": "fundamentals-v4-printing-and-input-3",
+      "revision": "v4.4"
+    },
+    {
+      "path": "primerian/fundamentals/printing-and-input/go/easy",
+      "title": "Print the label exactly",
+      "ticket": "fundamentals-v4-printing-and-input-1",
+      "revision": "v4.3"
+    },
+    {
+      "path": "primerian/fundamentals/printing-and-input/go/medium",
+      "title": "Convert one input line",
+      "ticket": "fundamentals-v4-printing-and-input-2",
+      "revision": "v4.3"
+    },
+    {
+      "path": "primerian/fundamentals/printing-and-input/go/hard",
+      "title": "Build the line reader",
+      "ticket": "fundamentals-v4-printing-and-input-3",
+      "revision": "v4.4"
+    },
+    {
+      "path": "primerian/fundamentals/printing-and-input/rust/easy",
+      "title": "Print the label exactly",
+      "ticket": "fundamentals-v4-printing-and-input-1",
+      "revision": "v4.3"
+    },
+    {
+      "path": "primerian/fundamentals/printing-and-input/rust/medium",
+      "title": "Convert one input line",
+      "ticket": "fundamentals-v4-printing-and-input-2",
+      "revision": "v4.3"
+    },
+    {
+      "path": "primerian/fundamentals/printing-and-input/rust/hard",
+      "title": "Build the line reader",
+      "ticket": "fundamentals-v4-printing-and-input-3",
+      "revision": "v4.4"
+    },
+    {
+      "path": "primerian/fundamentals/printing-and-input/typescript/easy",
+      "title": "Print the label exactly",
+      "ticket": "fundamentals-v4-printing-and-input-1",
+      "revision": "v4.3"
+    },
+    {
+      "path": "primerian/fundamentals/printing-and-input/typescript/medium",
+      "title": "Convert one input line",
+      "ticket": "fundamentals-v4-printing-and-input-2",
+      "revision": "v4.3"
+    },
+    {
+      "path": "primerian/fundamentals/printing-and-input/typescript/hard",
+      "title": "Build the line reader",
+      "ticket": "fundamentals-v4-printing-and-input-3",
+      "revision": "v4.4"
+    },
+    {
+      "path": "primerian/fundamentals/source-and-execution/cpp/easy",
+      "title": "Verify the review build",
+      "ticket": "F-SRC-BUILD-V5-CPP-S1-R2",
+      "revision": "v5.3"
+    },
+    {
+      "path": "primerian/fundamentals/source-and-execution/cpp/medium",
+      "title": "Guard the preview workflow",
+      "ticket": "F-SRC-BUILD-V5-CPP-S2",
+      "revision": "v5.1"
+    },
+    {
+      "path": "primerian/fundamentals/source-and-execution/cpp/hard",
+      "title": "Repair the demo launcher",
+      "ticket": "F-SRC-BUILD-V5-CPP-S3-R2",
+      "revision": "v5.2"
+    },
+    {
+      "path": "primerian/fundamentals/source-and-execution/go/easy",
+      "title": "Verify the review build",
+      "ticket": "F-SRC-BUILD-V5-GO-S1-R2",
+      "revision": "v5.3"
+    },
+    {
+      "path": "primerian/fundamentals/source-and-execution/go/medium",
+      "title": "Guard the preview workflow",
+      "ticket": "F-SRC-BUILD-V5-GO-S2",
+      "revision": "v5.1"
+    },
+    {
+      "path": "primerian/fundamentals/source-and-execution/go/hard",
+      "title": "Repair the demo launcher",
+      "ticket": "F-SRC-BUILD-V5-GO-S3-R2",
+      "revision": "v5.2"
+    },
+    {
+      "path": "primerian/fundamentals/source-and-execution/rust/easy",
+      "title": "Verify the review build",
+      "ticket": "F-SRC-BUILD-V5-RUST-S1-R2",
+      "revision": "v5.3"
+    },
+    {
+      "path": "primerian/fundamentals/source-and-execution/rust/medium",
+      "title": "Guard the preview workflow",
+      "ticket": "F-SRC-BUILD-V5-RUST-S2",
+      "revision": "v5.1"
+    },
+    {
+      "path": "primerian/fundamentals/source-and-execution/rust/hard",
+      "title": "Repair the demo launcher",
+      "ticket": "F-SRC-BUILD-V5-RUST-S3-R2",
+      "revision": "v5.2"
+    },
+    {
+      "path": "primerian/fundamentals/source-and-execution/typescript/easy",
+      "title": "Verify the review build",
+      "ticket": "F-SRC-BUILD-V5-TYPESCRIPT-S1-R2",
+      "revision": "v5.3"
+    },
+    {
+      "path": "primerian/fundamentals/source-and-execution/typescript/medium",
+      "title": "Guard the preview workflow",
+      "ticket": "F-SRC-BUILD-V5-TYPESCRIPT-S2",
+      "revision": "v5.1"
+    },
+    {
+      "path": "primerian/fundamentals/source-and-execution/typescript/hard",
+      "title": "Repair the demo launcher",
+      "ticket": "F-SRC-BUILD-V5-TYPESCRIPT-S3-R2",
+      "revision": "v5.2"
+    }
+  ]
+}

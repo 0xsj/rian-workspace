@@ -1,0 +1,33 @@
+{
+  "schema": 1,
+  "site": "primerian",
+  "module": "fundamentals",
+  "lesson": "source-and-execution",
+  "language": "go",
+  "level": "easy",
+  "path": "primerian/fundamentals/source-and-execution/go/easy",
+  "title": "Verify the review build",
+  "ticket": "F-SRC-BUILD-V5-GO-S1-R2",
+  "revision": "v5.3",
+  "kind": "build-run",
+  "lessonUrl": "https://primerian.dev/fundamentals/source-and-execution?language=go",
+  "labUrl": "https://primerian.dev/fundamentals/source-and-execution/lab?language=go&tab=F-SRC-BUILD-V5-GO-S1-R2",
+  "source": "main.go",
+  "supportFiles": [
+    "go.mod"
+  ],
+  "starterHashes": {
+    "main.go": "a97f75e9bd1443653a7c020df17bcbf61c791b534b581a34295d98c92fc88f4a",
+    "go.mod": "634fd13ade23a5eb9acdc359e8cfccfdac43acf42467e0ac5c8f035d3dcde924",
+    "tasks.json": "b1ae0538b95ebe297c40bc0c3ecd40bd51af64f4b0e7c31e982c75d2570c3ec4",
+    "support/seeds.json": "26de63b20936ddf3041a86e2b1b1021c4a5a89bae03990a72487511f8667aef6"
+  },
+  "artifacts": [
+    "preview",
+    "preview-next"
+  ],
+  "provenance": {
+    "owner": "apps/primerian/src/lib/modules/fundamentals/reading-programs/source-and-execution/v4",
+    "exportVersion": 1
+  }
+}

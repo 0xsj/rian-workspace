@@ -1,0 +1,37 @@
+{
+  "schema": 1,
+  "site": "heyrian",
+  "module": "patterns",
+  "lesson": "factory",
+  "language": "cpp",
+  "level": "hard",
+  "path": "heyrian/patterns/factory/cpp/hard",
+  "title": "Preserve queued notices",
+  "ticket": "heyrian-factory-v4-3-r3",
+  "revision": "factory-lab-v4.3",
+  "kind": "coding",
+  "lessonUrl": "https://heyrian.dev/patterns/factory?language=cpp",
+  "labUrl": "https://heyrian.dev/patterns/factory/lab?language=cpp&tab=heyrian-factory-v4-3-r3",
+  "source": "main.cpp",
+  "supportFiles": [],
+  "starterHashes": {
+    "main.cpp": "9c86a8eb363742315f04724b54c47e4a178ca13ba68a5e468abda9f3108cbd35"
+  },
+  "build": [
+    "$CXX",
+    "-std=c++23",
+    "-Wall",
+    "-Wextra",
+    "-pedantic",
+    "main.cpp",
+    "-o",
+    ".workspace-build/program"
+  ],
+  "run": [
+    "./.workspace-build/program"
+  ],
+  "provenance": {
+    "owner": "apps/heyrian/src/lib/modules/patterns/creation/factory/v4",
+    "exportVersion": 1
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "schema": 1,
+  "site": "primerian",
+  "module": "fundamentals",
+  "lesson": "source-and-execution",
+  "language": "cpp",
+  "level": "easy",
+  "path": "primerian/fundamentals/source-and-execution/cpp/easy",
+  "title": "Verify the review build",
+  "ticket": "F-SRC-BUILD-V5-CPP-S1-R2",
+  "revision": "v5.3",
+  "kind": "build-run",
+  "lessonUrl": "https://primerian.dev/fundamentals/source-and-execution?language=cpp",
+  "labUrl": "https://primerian.dev/fundamentals/source-and-execution/lab?language=cpp&tab=F-SRC-BUILD-V5-CPP-S1-R2",
+  "source": "main.cpp",
+  "supportFiles": [],
+  "starterHashes": {
+    "main.cpp": "9900778353847a6178dfe4f9fe1d26effa00437f3a556bc8a9e1d5e4ed4fe9d2",
+    "tasks.json": "7da25d33a91a475c83b59364097df8590c47a264362997e77d837b1b9a7cffb3",
+    "support/seeds.json": "ac684e316ae54dc74698c0c452fdff8e32a35ed64411db4d431b152ffbeb2bf9"
+  },
+  "artifacts": [
+    "preview",
+    "preview-next"
+  ],
+  "provenance": {
+    "owner": "apps/primerian/src/lib/modules/fundamentals/reading-programs/source-and-execution/v4",
+    "exportVersion": 1
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema": 1,
+  "site": "primerian",
+  "module": "fundamentals",
+  "lesson": "printing-and-input",
+  "language": "go",
+  "level": "hard",
+  "path": "primerian/fundamentals/printing-and-input/go/hard",
+  "title": "Build the line reader",
+  "ticket": "fundamentals-v4-printing-and-input-3",
+  "revision": "v4.4",
+  "kind": "coding",
+  "lessonUrl": "https://primerian.dev/fundamentals/printing-and-input?language=go",
+  "labUrl": "https://primerian.dev/fundamentals/printing-and-input/lab?language=go&tab=fundamentals-v4-printing-and-input-3",
+  "source": "main.go",
+  "supportFiles": [
+    "go.mod"
+  ],
+  "starterHashes": {
+    "main.go": "08d79164e8c5f4600f74aab87996f55ef3144a2060835d03dec0df6b23c8bc52",
+    "go.mod": "9211127ce1646981176286ec8a68640f1650052ac73c9389f41f1e30b6816014"
+  },
+  "build": [
+    "go",
+    "build",
+    "-o",
+    ".workspace-build/program",
+    "."
+  ],
+  "run": [
+    "./.workspace-build/program"
+  ],
+  "provenance": {
+    "owner": "apps/primerian/src/lib/modules/fundamentals/reading-programs/printing-and-input/v4",
+    "exportVersion": 1
+  }
+}

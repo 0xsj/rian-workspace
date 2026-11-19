@@ -1,0 +1,19 @@
+{
+  "name": "rian-workspace",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "license": "UNLICENSED",
+  "engines": { "node": ">=22.18.0" },
+  "scripts": {
+    "list": "node tools/workspace.mjs list",
+    "doctor": "node tools/workspace.mjs doctor",
+    "run": "node tools/workspace.mjs run",
+    "check": "node tools/workspace.mjs check",
+    "task": "node tools/workspace.mjs task",
+    "launch": "node tools/workspace.mjs launch",
+    "prepare": "node tools/workspace.mjs prepare",
+    "verify": "node tools/validate.mjs && node --test tools/workspace.test.mjs"
+  },
+  "devDependencies": { "@types/node": "22.19.1", "typescript": "6.0.3" }
+}

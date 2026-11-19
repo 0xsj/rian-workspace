@@ -1,0 +1,7 @@
+[
+  {
+    "source": "#include <iostream>\n#include <string>\n\nint main() {\n    const std::string message = \"preview: checked\";\n    std::cout << message << '\\n';\n}\n// Earlier review revision; same visible banner.\n",
+    "command": "g++ -std=c++23 -Wall -Wextra -pedantic main.cpp -o preview",
+    "artifact": "preview"
+  }
+]

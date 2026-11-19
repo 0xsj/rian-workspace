@@ -1,0 +1,34 @@
+{
+  "schema": 1,
+  "site": "primerian",
+  "module": "fundamentals",
+  "lesson": "source-and-execution",
+  "language": "go",
+  "level": "hard",
+  "path": "primerian/fundamentals/source-and-execution/go/hard",
+  "title": "Repair the demo launcher",
+  "ticket": "F-SRC-BUILD-V5-GO-S3-R2",
+  "revision": "v5.2",
+  "kind": "build-run",
+  "lessonUrl": "https://primerian.dev/fundamentals/source-and-execution?language=go",
+  "labUrl": "https://primerian.dev/fundamentals/source-and-execution/lab?language=go&tab=F-SRC-BUILD-V5-GO-S3-R2",
+  "source": "main.go",
+  "supportFiles": [
+    "go.mod"
+  ],
+  "starterHashes": {
+    "main.go": "a97f75e9bd1443653a7c020df17bcbf61c791b534b581a34295d98c92fc88f4a",
+    "go.mod": "634fd13ade23a5eb9acdc359e8cfccfdac43acf42467e0ac5c8f035d3dcde924",
+    "tasks.json": "7aa91add8f9aaec07986c6dabe320ba3918ecf85e9f7c9cb875ea11e81b0ddfd",
+    "launch.json": "91bee069a4c38902fdf6679c87948b61e8a294edc154f996aabb6f1c59ceecf1",
+    "support/seeds.json": "a01583c2f35f28bb56cca4beb006979b9f108bc674706e3ab1f6f25773f9120d"
+  },
+  "artifacts": [
+    "preview",
+    "preview-next"
+  ],
+  "provenance": {
+    "owner": "apps/primerian/src/lib/modules/fundamentals/reading-programs/source-and-execution/v4",
+    "exportVersion": 1
+  }
+}
